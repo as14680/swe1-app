@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+*.pyc  
+*~  
+__pycache__  
+myvenv  
+db.sqlite3  
+/static  
+.DS_Store  
+>>>>>>> 3ed9fc5 (my app first commit)
